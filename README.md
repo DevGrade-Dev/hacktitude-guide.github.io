@@ -27,7 +27,7 @@ Remove code commit credentials if there are any previous credentials stored in y
 <br>
 
 <p align="center">
-  <img src="./images/Windows Credentials.png" width="350px">
+  <img src="./images/Windows Credentials.png" width="500px">
 </p>
 
 ### In Mac
@@ -38,7 +38,7 @@ Remove code commit credentials if there are any previous credentials stored in y
 <br>
 
 <p align="center">
-  <img src="./images/MAC Credentials.png" width="350px">
+  <img src="./images/MAC Credentials.png" width="500px">
 </p>
 ## Legitimacy of your solution
 
