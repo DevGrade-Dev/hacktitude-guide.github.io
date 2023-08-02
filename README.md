@@ -26,7 +26,9 @@ Remove code commit credentials if there are any previous credentials stored in y
 
 <br>
 
-![Windows Credentials](/images/Windows%20Credentials.png)
+<p align="center">
+  <img src="./images/Windows Credentials.png" width="350px">
+</p>
 
 ### In Mac
 
@@ -35,7 +37,9 @@ Remove code commit credentials if there are any previous credentials stored in y
 
 <br>
 
-![Windows Credentials](/images/MAC%20Credentials.png)
+<p align="center">
+  <img src="./images/MAC Credentials.png" width="350px">
+</p>
 ## Legitimacy of your solution
 
 Any attempt to compromise the integrity of the contest will `unconditionally disqualify` your team. Therefore, please ensure you avoid attempting:
