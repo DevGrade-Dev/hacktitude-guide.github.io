@@ -77,7 +77,3 @@ For **_non-technical support_**, you may reach out to our Malaysian Representati
 - [Hacktitude FAQ](https://www.hacktitude.io/faq)
 - [99x website](https://99x.io)
 - [DevGrade website](https://devgrade.io/)
-
-
-[Code](/Challenge-4.md)
-
