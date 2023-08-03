@@ -61,7 +61,7 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 
 * _Using ChatGPT or any AI-related tools will be identified on the DevGrade platform and will result in immediate disqualification from the hackathon._
 
-* _The  final competition is scheduled for a duration of **9 hours**._
+* _The  final competition is scheduled for a duration of **9 hours** starting at 3.00 PM MYT._
 
 * _Violation of the rules and regulations, or any attempt to gain an unfair advantage may result in disqualification._
 
