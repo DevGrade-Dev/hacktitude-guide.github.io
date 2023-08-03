@@ -6,14 +6,14 @@
 
 This section helps you understand the prerequisites required to complete the hackathon.
 
-1. Installations required:
+Installations required:
    - [Git](https://git-scm.com/downloads)
    - [Node.js version 14.15.0](https://nodejs.org/ja/blog/release/v14.15.0)
    - [npm](https://www.npmjs.com/)
 
 <br>
 
-> _Recommended: To ensure seamless management of multiple Node.jsversions on your machine, it is highly recommended to use a [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)._
+> _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)._
 
 ## Remove code commit credentials
 
@@ -40,6 +40,7 @@ Remove code commit credentials if there are any previous credentials stored in y
 <p align="center">
   <img src="./images/MAC Credentials.png" width="500px">
 </p>
+
 ## Legitimacy of your solution
 
 Any attempt to compromise the integrity of the contest will `unconditionally disqualify` your team. Therefore, please ensure you avoid attempting:
