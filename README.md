@@ -1,7 +1,5 @@
 # Welcome to `Hacktitude Malaysia 2023`
 
->> **DISCLAIMER:** Please note that this project is created only for the purpose of Hacktitude.io and does NOT represent best practices of software development. The project contains purposefully placed errors, bad design practices, bad code quality, and security malpractices.
-
 ## Setting pre-requisites in your environment
 
 This section helps you understand the prerequisites required to complete the hackathon.
@@ -53,8 +51,17 @@ Any attempt to compromise the integrity of the contest will `unconditionally dis
 This step is not mandatory for working on the Hacktitude challenges, but it may improve your development experience. You can consider the following:
 
 - Install a plugin for `SQLite` on your IDE so that you can explore the SQLite database.
-- Install a plugin for `JEST testing` on your IDE to run tests without depending on the command line.
 - Install any other plugin that you find necessary to improve your developer experience.
+
+## Important <span style='color: red;'>!!</span>
+
+* _Using ChatGPT or any AI-related tools will be identified on the DevGrade platform and will result in immediate disqualification from the hackathon._
+
+* _The  final competition is scheduled for a duration of `9 hours`._
+
+* _Violation of the rules and regulations, or any attempt to gain an unfair advantage may result in disqualification._
+
+* _Refrain from refreshing the page._
 
 ## Getting support
 
