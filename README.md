@@ -57,6 +57,8 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 
 ##  Important <span style='color: red;'>!!</span> 
 
+* _Ensure that you go through all the instructions before the competition and read the challenge descriptions thoroughly._
+
 * _Using ChatGPT or any AI-related tools will be identified on the DevGrade platform and will result in immediate disqualification from the hackathon._
 
 * _The  final competition is scheduled for a duration of **9 hours**._
@@ -67,15 +69,11 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 
 ## Getting support
 
-There will be minimal to no support available on the contest day. However, if you need help setting up the project, you may contact the **_technical support team_** via WhatsApp `+94 74 354 6446`. Sometimes we may share your question (anonymously) and our answer with all the team leaders via the common WhatsApp chat group if your question can be helpful for others.
+On the day of the competition, limited support will be available. However, for assistance with project setup, you may contact our technical support team via WhatsApp at the following phone number: `+94 74 354 6446`. Please be aware that technical doubts will not be addressed through this channel. In relation to any questions concerning the competition, we may share your inquiry, along with our response, anonymously with all team leaders in the WhatsApp chat group.
 
-For **_non-technical support_**, you may reach out to our Malaysian Representative Anne Gomez at the number `+60 18 299 4076`, but please use calls only.
+For non-technical support needs, you can reach out to our Malaysian Representative, Anne Gomez, via the number: `+60 18 299 4076`. Please kindly use calls only for this purpose.
 
-On the day of the contest, limited support will be available. However, for assistance with project setup, you may contact our technical support team via WhatsApp at the following phone number: `+94 74 354 6446`. Please be aware that technical doubts will not be addressed through this channel. Should we address any questions, we may share both your inquiry and our response anonymously with all team leaders via the common WhatsApp chat group, to which they will be added in due course.
-
-For non-technical support needs, you can reach out to our Malaysian Representative, Anne Gomez, via the number: +60 18 299 4076. Please kindly use calls only for this purpose.
-
-We appreciate your understanding and cooperation, and we're looking forward to a successful and enjoyable contest. If you have any non-technical concerns, please don't hesitate to get in touch with Anne Gomez for assistance. Thank you.
+We appreciate your understanding and cooperation, and we're looking forward to a successful and enjoyable contest. Thank you.
 
 ## References
 
