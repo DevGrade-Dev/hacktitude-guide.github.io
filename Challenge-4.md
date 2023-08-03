@@ -42,8 +42,7 @@ expected output for user `Liyana`,
 
  
 
-```json
-
+```javascript
 [
 
       {
@@ -155,9 +154,6 @@ expected output for user `Liyana`,
       },
 
     ]
-
- 
-
 ```
 
 In the above response, `id` refers to each user's `id` in the `users` table.
