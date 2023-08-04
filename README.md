@@ -57,7 +57,10 @@ Any attempt to compromise the integrity of the contest will `unconditionally dis
 
 This step is not mandatory for working on the Hacktitude challenges, but it may improve your development experience. You can consider the following:
 
-- Install a plugin for **SQLite** on your IDE so that you can explore the SQLite database.
+- Install a plugin for **SQLite Viewer** on your IDE so that you can explore the SQLite database.
+  <p align="center">
+  <img src="./images/Code_bQgIDTxJNp.png" width="500px">
+  </p>
 - Install any other plugin that you find necessary to improve your developer experience.
 
 ## Video Guide for Hacktitude
