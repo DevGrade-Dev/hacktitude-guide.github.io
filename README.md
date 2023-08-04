@@ -89,7 +89,7 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 
 * _Violation of the rules and regulations, or any attempt to gain an unfair advantage may result in disqualification._
 
-* _Refrain from refreshing the DevGrade User Guide page._
+* _Please make sure to open the Hacktitude User Guide in an incognito mode of the browser._
 
 ## Getting support
 
