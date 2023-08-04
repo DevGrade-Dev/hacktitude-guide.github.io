@@ -55,6 +55,10 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 - Install a plugin for **SQLite** on your IDE so that you can explore the SQLite database.
 - Install any other plugin that you find necessary to improve your developer experience.
 
+## Video Guide for Hacktitude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g64E2xITyLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ##  Important <span style='color: red;'>!!</span> 
 
 * _Ensure that you go through all the instructions before the competition and read the challenge descriptions thoroughly._
