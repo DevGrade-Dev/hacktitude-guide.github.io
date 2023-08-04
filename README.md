@@ -6,19 +6,19 @@ Welcome to the final run of Hacktitude Malaysia 2023! Before you begin, please e
 
 This section helps you understand the prerequisites required to complete the hackathon.
 
-> _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a Node Version Manager (NVM)._
+> _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a **Node Version Manager (NVM)**._
 > <p>
 > &ensp; &ensp;  For Windows -: <a href="https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe" target="_blank">Downlad .exe file</a>
 > <br> 
 > &ensp; &ensp;  Mac and Linux -: <a href="https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating" target="_blank">Refer this</a>
 
-Installations required:
-   - <a href="https://git-scm.com/downloads" target="_blank">Git</a>
-   - <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">Node.js version 14.15.0</a>
-   - <a href="https://www.npmjs.com/" target="_blank">npm</a>
-   - Install <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">Live Server</a> on Visual Studio Code 
-
 <br>
+   
+**Installations required:**<br>
+   &ensp; &ensp; &ensp; &ensp;**- <a href="https://git-scm.com/downloads" target="_blank">Git</a>**<br>
+   &ensp; &ensp; &ensp; &ensp;**- <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">Node.js version 14.15.0</a>**<br>
+   &ensp; &ensp; &ensp; &ensp;**- <a href="https://www.npmjs.com/" target="_blank">npm</a>**<br>
+   &ensp; &ensp; &ensp; &ensp;**- Install <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">Live Server</a> on Visual Studio Code**<br>
 
 ## Remove code commit credentials
 
