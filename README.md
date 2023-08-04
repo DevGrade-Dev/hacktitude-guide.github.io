@@ -66,7 +66,7 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 ## Video Guide for Hacktitude
 
 <p align="center">
-   <iframe src="https://www.youtube.com/embed/g64E2xITyLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="500px"></iframe>
+   <iframe src="https://www.youtube.com/embed/g64E2xITyLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="500px" height="400"></iframe>
 </p>
 
 ##  Important <span style='color: red;'>!!</span> 
