@@ -8,7 +8,7 @@ This section helps you understand the prerequisites required to complete the hac
 
 > _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a **Node Version Manager (NVM)**._
 > <p>
-> &ensp; &ensp;  For Windows -: <a href="https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe" target="_blank">Downlad .exe file</a>
+> &ensp; &ensp;  For Windows -: <a href="https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe" target="_blank">Download the .exe file</a>
 > <br> 
 > &ensp; &ensp;  Mac and Linux -: <a href="https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating" target="_blank">Refer this</a>
 
@@ -20,9 +20,9 @@ This section helps you understand the prerequisites required to complete the hac
    &ensp; &ensp; &ensp; &ensp;**- <a href="https://www.npmjs.com/" target="_blank">npm</a>**<br>
    &ensp; &ensp; &ensp; &ensp;**- Install the <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">Live Server</a> extension on Visual Studio Code**<br>
 
-## Remove code commit credentials
+## Remove AWS CodeCommit credentials
 
-Remove code commit credentials if there are any previous credentials stored in your computer.
+Remove AWS CodeCommit credentials if there are any previous credentials stored in your computer.
 
 ### In Windows
 
@@ -65,7 +65,9 @@ This step is not mandatory for working on the Hacktitude challenges, but it may 
 
 ## Video Guide for Hacktitude
 
-<iframe src="https://www.youtube.com/embed/g64E2xITyLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+   <iframe src="https://www.youtube.com/embed/g64E2xITyLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="500px"></iframe>
+</p>
 
 ##  Important <span style='color: red;'>!!</span> 
 
