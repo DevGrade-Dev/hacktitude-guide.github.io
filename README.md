@@ -6,14 +6,14 @@ Welcome to the final run of Hacktitude Malaysia 2023! Before you begin, please e
 
 This section helps you understand the prerequisites required to complete the hackathon.
 
+> _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)._
+
 Installations required:
-   - [Git](https://git-scm.com/downloads)
-   - [Node.js version 14.15.0](https://nodejs.org/ja/blog/release/v14.15.0)
-   - [npm](https://www.npmjs.com/)
+   - <a href="https://git-scm.com/downloads" target="_blank">Git</a>
+   - <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">Node.js version 14.15.0</a>
+   - <a href="https://www.npmjs.com/" target="_blank">npm</a>
 
 <br>
-
-> _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)._
 
 ## Remove code commit credentials
 
@@ -81,7 +81,7 @@ We appreciate your understanding and cooperation, and we're looking forward to a
 
 ## References
 
-- [Hacktitude official website](https://www.hacktitude.io)
-- [Hacktitude FAQ](https://www.hacktitude.io/faq)
-- [99x website](https://99x.io)
-- [DevGrade website](https://devgrade.io/)
+- <a href="https://www.hacktitude.io" target="_blank">Hacktitude official website</a>
+- <a href="https://www.hacktitude.io/faq" target="_blank">Hacktitude FAQ</a>
+- <a href="https://99x.io" target="_blank">99x website</a>
+- <a href="https://devgrade.io/" target="_blank">DevGrade website</a>
