@@ -18,7 +18,7 @@ This section helps you understand the prerequisites required to complete the hac
    &ensp; &ensp; &ensp; &ensp;**- <a href="https://git-scm.com/downloads" target="_blank">Git</a>**<br>
    &ensp; &ensp; &ensp; &ensp;**- <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">Node.js version 14.15.0</a>**<br>
    &ensp; &ensp; &ensp; &ensp;**- <a href="https://www.npmjs.com/" target="_blank">npm</a>**<br>
-   &ensp; &ensp; &ensp; &ensp;**- Install <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">Live Server</a> on Visual Studio Code**<br>
+   &ensp; &ensp; &ensp; &ensp;**- Install the <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">Live Server</a> extension on Visual Studio Code**<br>
 
 ## Remove code commit credentials
 
